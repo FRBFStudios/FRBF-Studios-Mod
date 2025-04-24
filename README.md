@@ -1,4 +1,4 @@
-#About
+# About
 Since I already knew how to use Java, I thought, might as well get into Minecraft Modding. So, I started a small project where I'm just messing around and implementing stuff suggested by friends.
 Everything that has been implemented so far is Hatsune Miku-themed because I have a friend obsessed with her :P
 
@@ -6,7 +6,7 @@ Everything that has been implemented so far is Hatsune Miku-themed because I hav
 Fabric for Minecraft 1.21.1
 Fabric API
 
-#Features
+# Features
 **Items**
 *Recipes can be viewed using the Recipe Book. REI compatibility is not yet implemented.*
 
