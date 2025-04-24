@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "frbfmod",
+	"version": "alpha-1.0",
+	"name": "FRBF Studios Mod",
+	"description": "Just me getting into modding and messing around :D",
+	"authors": [
+		"FRBF Studios"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/frbfmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.frbfstudios.frbfmod.FRBFStudiosMod"
+		],
+		"fabric-datagen": [
+			"net.frbfstudios.frbfmod.FRBFStudiosModDataGenerator"
+		],
+		"client":[
+			"net.frbfstudios.frbfmod.FRBFStudiosModClient"
+		]
+	},
+	"mixins": [
+		"frbfmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

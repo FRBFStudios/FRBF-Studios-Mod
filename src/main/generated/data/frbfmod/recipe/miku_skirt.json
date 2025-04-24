@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "tag": "minecraft:buttons"
+    },
+    "F": {
+      "item": "frbfmod:miku_fragment"
+    },
+    "G": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "FSF",
+    "GBG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "frbfmod:miku_skirt"
+  }
+}

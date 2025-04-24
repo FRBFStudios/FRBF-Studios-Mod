@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "frbfmod:item/miku_hair",
+    "layer1": "minecraft:trims/items/helmet_trim_redstone"
+  }
+}

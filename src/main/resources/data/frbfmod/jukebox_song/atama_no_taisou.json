@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.frbfmod.music_disc_atama_no_taisou.desc"
+  },
+  "length_in_seconds": 177.1,
+  "sound_event": "frbfmod:atama_no_taisou"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "frbfmod:miku_fragment"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "F F"
+  ],
+  "result": {
+    "count": 1,
+    "id": "frbfmod:miku_hair"
+  }
+}

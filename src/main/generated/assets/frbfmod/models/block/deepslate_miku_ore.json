@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "frbfmod:block/deepslate_miku_ore"
+  }
+}

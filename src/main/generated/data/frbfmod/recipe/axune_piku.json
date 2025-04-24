@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "frbfmod:miku_fragment"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "FFF",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "frbfmod:axune_piku"
+  }
+}

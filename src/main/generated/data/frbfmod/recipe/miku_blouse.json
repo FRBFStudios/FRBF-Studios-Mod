@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "frbfmod:miku_fragment"
+    },
+    "G": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "G G",
+    "WFW",
+    "WFW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "frbfmod:miku_blouse"
+  }
+}

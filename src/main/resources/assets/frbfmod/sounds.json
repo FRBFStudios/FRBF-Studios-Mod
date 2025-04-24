@@ -1,0 +1,18 @@
+{
+  "atama_no_taisou": {
+    "sounds": [
+      {
+        "name": "frbfmod:atama_no_taisou",
+        "stream": true
+      }
+    ]
+  },
+  "mesmerizer": {
+    "sounds": [
+      {
+        "name": "frbfmod:mesmerizer",
+        "stream": true
+      }
+    ]
+  }
+}

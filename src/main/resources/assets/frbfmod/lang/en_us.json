@@ -1,0 +1,38 @@
+{
+  "item.frbfmod.axune_piku": "Axune Piku",
+  "tooltip.frbfmod.axune_piku.tooltip": "§b§o \"Watashi Hatsune Miku!\"",
+
+  "item.frbfmod.axune_miku": "Axune Miku",
+  "tooltip.frbfmod.axune_miku.tooltip": "§b§o \"Watashi Hatsune Miku!\"",
+
+  "item.frbfmod.miku_knife": "Miku's Knife",
+  "tooltip.frbfmod.miku_knife.tooltip": "§b§oWhen she needs to, she can bite.",
+
+  "item.frbfmod.miku_shovel": "Miku's Shovel",
+  "tooltip.frbfmod.miku_shovel.tooltip": "§b§o \"Watashi Hatsune Miku!\"",
+
+  "item.frbfmod.miku_hoe": "O_O",
+  "tooltip.frbfmod.miku_hoe.tooltip": "§b§oI am not calling it that.",
+
+  "item.frbfmod.miku_hair": "Miku's Pigtails",
+  "item.frbfmod.miku_blouse": "Miku's Blouse",
+  "item.frbfmod.miku_skirt": "Miku's Skirt",
+  "item.frbfmod.miku_boots": "Miku's Boots",
+
+  "item.frbfmod.miku_fragment": "Miku Fragment",
+  "tooltip.frbfmod.miku_fragment.tooltip": "§b§oIt's humming",
+
+  "item.frbfmod.music_disc_atama_no_taisou": "§bMusic Disc",
+  "item.frbfmod.music_disc_atama_no_taisou.desc": "hapi⇒, Hatsune Miku - 初音ミクの あたまのたいそう (Atama No Taisou)",
+
+  "item.frbfmod.music_disc_mesmerizer": "§bMusic Disc",
+  "item.frbfmod.music_disc_mesmerizer.desc": "32ki, Hatsune Miku, Kasane Teto - メズマライザー (Mesmerizer)",
+
+  "block.frbfmod.miku_ore": "Miku Ore",
+  "block.frbfmod.deepslate_miku_ore": "Deepslate Miku Ore",
+
+  "effect.frbfmod.siren": "Siren",
+
+  "itemgroup.frbfmod.hatsune_miku": "Hatsune Miku",
+  "itemgroup.frbfmod.serial_designation_n": "Serial Designation N"
+}

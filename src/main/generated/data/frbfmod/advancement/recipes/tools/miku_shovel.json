@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_miku_fragment": {
+      "conditions": {
+        "items": [
+          {
+            "items": "frbfmod:miku_fragment"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "frbfmod:miku_shovel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_miku_fragment"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "frbfmod:miku_shovel"
+    ]
+  }
+}
