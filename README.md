@@ -1,9 +1,9 @@
 # About
-Since I already knew how to use Java, I thought, might as well get into Minecraft Modding. So, I started a small project where I'm just messing around and implementing stuff suggested by friends.
+Since I already knew how to use Java, I thought to myself, might as well get into Minecraft Modding. So, I started a small project where I'm just messing around and implementing stuff suggested by friends.
 Everything that has been implemented so far is Hatsune Miku-themed because I have a friend obsessed with her :P
 
 **Dependencies:**
-Fabric for Minecraft 1.21.1
+Fabric for Minecraft 1.21.1,
 Fabric API
 
 # Features
