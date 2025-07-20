@@ -1,3 +1,5 @@
+# Put on hold for now, working on other things
+
 # About
 Since I already knew how to use Java, I thought to myself, might as well get into Minecraft Modding. So, I started a small project where I'm just messing around and implementing stuff suggested by friends.\
 Everything that has been implemented so far is Hatsune Miku-themed because I have a friend obsessed with her :P
